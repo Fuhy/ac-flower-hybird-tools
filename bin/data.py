@@ -2,7 +2,7 @@ import os
 import sys
 
 
-ROSE_DAT = 'rose.dat'
+ROSE_DAT = 'Roses.dat'
 
 def acquire_rose_dat():
     ROSE = {}
